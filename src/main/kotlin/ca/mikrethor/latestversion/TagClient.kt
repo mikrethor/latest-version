@@ -1,6 +1,6 @@
-package ca.mikrethor.springboot.latestversion
+package ca.mikrethor.latestversion
 
-import ca.mikrethor.springboot.latestversion.model.Tag
+import ca.mikrethor.latestversion.model.Tag
 import feign.Headers
 import feign.RequestLine
 
