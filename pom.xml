@@ -129,7 +129,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        ca.mikrethor.springboot.latestversion.MainKt
+                                        ca.mikrethor.latestversion.MainKt
                                     </mainClass>
                                 </manifest>
                             </archive>
